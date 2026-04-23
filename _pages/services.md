@@ -13,7 +13,8 @@ nav_order: 7
 **Program Commitee Member**
 
 - ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses Program Committee of SCORED, co-located with The ACM Conference on Computer and Communications Security (CCS). 
-- The 36th IEEE International Symposium on Software Reliability Engineering, Artfact Evaluation Track.  
+- The 36th IEEE International Symposium on Software Reliability Engineering, Artfact Evaluation Track.
+- The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Artifact Evaluation Track.  
 
 **Peer-Review Activities**
 - European Conference on Computer Systems (Eurosys)
