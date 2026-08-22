@@ -17,32 +17,32 @@ calendar: false
 
 **Teacher**
 - [DD2482 Automated Software Testing and DevOps](https://www.kth.se/student/kurser/kurs/DD2480) [@KTH](https://www.kth.se/)
-- 
+  
 **MSc Theses Supervisions**
 
-- **Jonas Dåderman** . _"Improving Label Accuracy in Machine Learning Vulnerability Detection Datasets"_, 2026
-- **Simone Cecere** - _"Experimental Study of Fuzzing Techniques on Cryptography-Based Network Servers"_, 2026
-1. **Francesco Cirillo** - _"FuEL: A Novel Approach for Encryption-Based Network Protocol Fuzzing"_, 2025
-2. **Giada Ottaiano** - _"Generation of Security Policies through End-to-End Testing: Experimental Study on the Kubernetes Project"_, 2025
-3. **Andrea Bertolero** - _"Evaluation of Malware Detection Techniques in Go with Creation of a New Dataset"_, 2025
-4. **Salvatore della Ragione** - _"An MLOps-Based Approach to Predicting System Overloads"_, 2025
-5. **Pietro Carputo** - _"A Predictive Approach for Overload Management in an Edge Computing Platform on PON Networks"_, 2025
-6. **Lucio Ilardi** - _"A Framework for Static and Dynamic Analysis of Containerized Applications"_, 2024
-7. **Armando Zevola** - _"An Approach to Software Supply Chain Analysis in Go Projects"_, 2024
-8. **Gianluigi Erra** - _"Simulation of Placement and Scheduling Algorithms for Edge Computing"_, 2024
-9. **Antonio Russo** - _"GoInject: A Tool for Generating Software Supply Chain Attacks in Go"_, 2024
-10. **Adriano Coppola** - _"Grey-Box Fuzzing of IoT Firmware through System Emulation"_, 2024
-11. **Andrea Olandese** - _"A Novel Framework for IoT Firmware Fuzzing"_, 2024
-12. **Francesco Palmieri** - _"System Security Hardening for an Edge Computing Platform on PON Networks"_, 2024
-13. **Antonio Iacono** - _"Security Testing of On-Board Train Networks Based on Virtualization Technologies"_, 2024
-14. **Marco Maglione** - _"Analysis of Software Vulnerabilities in Kubernetes Application Developer Interfaces"_, 2024
-15. **Giuseppe Spiezia** - _"A Hardening Solution for the Interfaces of the Kubernetes Platform"_, 2024
-16. **Salvatore Criscuolo** - _"Design and Simulation of an Edge Computing Platform Integrated with PON Networks"_, 2024
-17. **Luca Campanile** - _"Analysis of Requirements and Risks in an Edge Computing Platform on PON Networks"_, 2024
-18. **Valerio Mennillo** - _"An Approach to Snapshot-Based Fuzzing Integrated with the QEMU Emulator"_, 2024
-19. **Vincenzo Capasso** - _"A Systematic Approach to the Security Evaluation of an Industrial Application-Layer Gateway"_, 2024
-20. **Orlando Autiero** - _"Reducing the Attack Surface of Kubernetes with RBAC Hardening"_, 2024
-21. **Antonio Trapanese** - _"A Novel Architecture for Fuzzing MILS-based Applications"_, 2023
+1. **Jonas Dåderman** . _"Improving Label Accuracy in Machine Learning Vulnerability Detection Datasets"_, 2026
+2. **Simone Cecere** - _"Experimental Study of Fuzzing Techniques on Cryptography-Based Network Servers"_, 2026
+3. **Francesco Cirillo** - _"FuEL: A Novel Approach for Encryption-Based Network Protocol Fuzzing"_, 2025
+4. **Giada Ottaiano** - _"Generation of Security Policies through End-to-End Testing: Experimental Study on the Kubernetes Project"_, 2025
+5. **Andrea Bertolero** - _"Evaluation of Malware Detection Techniques in Go with Creation of a New Dataset"_, 2025
+6. **Salvatore della Ragione** - _"An MLOps-Based Approach to Predicting System Overloads"_, 2025
+7. **Pietro Carputo** - _"A Predictive Approach for Overload Management in an Edge Computing Platform on PON Networks"_, 2025
+8. **Lucio Ilardi** - _"A Framework for Static and Dynamic Analysis of Containerized Applications"_, 2024
+9. **Armando Zevola** - _"An Approach to Software Supply Chain Analysis in Go Projects"_, 2024
+10. **Gianluigi Erra** - _"Simulation of Placement and Scheduling Algorithms for Edge Computing"_, 2024
+11. **Antonio Russo** - _"GoInject: A Tool for Generating Software Supply Chain Attacks in Go"_, 2024
+12. **Adriano Coppola** - _"Grey-Box Fuzzing of IoT Firmware through System Emulation"_, 2024
+13. **Andrea Olandese** - _"A Novel Framework for IoT Firmware Fuzzing"_, 2024
+14. **Francesco Palmieri** - _"System Security Hardening for an Edge Computing Platform on PON Networks"_, 2024
+15. **Antonio Iacono** - _"Security Testing of On-Board Train Networks Based on Virtualization Technologies"_, 2024
+16. **Marco Maglione** - _"Analysis of Software Vulnerabilities in Kubernetes Application Developer Interfaces"_, 2024
+17. **Giuseppe Spiezia** - _"A Hardening Solution for the Interfaces of the Kubernetes Platform"_, 2024
+18. **Salvatore Criscuolo** - _"Design and Simulation of an Edge Computing Platform Integrated with PON Networks"_, 2024
+19. **Luca Campanile** - _"Analysis of Requirements and Risks in an Edge Computing Platform on PON Networks"_, 2024
+20. **Valerio Mennillo** - _"An Approach to Snapshot-Based Fuzzing Integrated with the QEMU Emulator"_, 2024
+21. **Vincenzo Capasso** - _"A Systematic Approach to the Security Evaluation of an Industrial Application-Layer Gateway"_, 2024
+22. **Orlando Autiero** - _"Reducing the Attack Surface of Kubernetes with RBAC Hardening"_, 2024
+23. **Antonio Trapanese** - _"A Novel Architecture for Fuzzing MILS-based Applications"_, 2023
 
 
 
