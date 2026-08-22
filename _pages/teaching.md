@@ -13,11 +13,15 @@ calendar: false
 **Teaching Assistant**
 - [31681 Operating Systems](https://www.ingegneria-informatica.unina.it/index.php/it/14-insegnamenti-l/361-sys-op) [@UNINA](https://www.unina.it/it/)  
 - [U3554 Software Security](https://ingegneria-informatica.dieti.unina.it/index.php/it/corsi-di-laurea/laurea-magistrale-m63/insegnamenti-m63/15-insegnamenti-lm/315-soft-security) [@UNINA](https://www.unina.it/it/)  
-- [DD2480 Software Engineering](https://www.kth.se/student/kurser/kurs/DD2480) [@KTH](https://www.kth.se/)
+- [DD2480 Software Engineering](https://www.kth.se/student/kurser/kurs/DD2482) [@KTH](https://www.kth.se/)
 
-
+**Teacher**
+- [DD2482 Automated Software Testing and DevOps](https://www.kth.se/student/kurser/kurs/DD2480) [@KTH](https://www.kth.se/)
+- 
 **MSc Theses Supervisions**
 
+- **Jonas Dåderman** . _"Improving Label Accuracy in Machine Learning Vulnerability Detection Datasets"_, 2026
+- **Simone Cecere** - _"Experimental Study of Fuzzing Techniques on Cryptography-Based Network Servers"_, 2026
 1. **Francesco Cirillo** - _"FuEL: A Novel Approach for Encryption-Based Network Protocol Fuzzing"_, 2025
 2. **Giada Ottaiano** - _"Generation of Security Policies through End-to-End Testing: Experimental Study on the Kubernetes Project"_, 2025
 3. **Andrea Bertolero** - _"Evaluation of Malware Detection Techniques in Go with Creation of a New Dataset"_, 2025
