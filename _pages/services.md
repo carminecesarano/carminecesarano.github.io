@@ -15,6 +15,8 @@ nav_order: 7
 - The 1st Workshop on Software Supply Chain Security (ChainSEC, 2027), co-located with ICSE 2027, Program Chair. 
 
 **Program Committee Member**
+- 38th IEEE International Symposium on Software Reliability Engineering (ISSRE 2027), research track
+- The 3rd ACM international conference on AI Foundation Models and Software Engineering (FORGE 2026), co-located with ICSE 
 - The 36th USENIX Security Symposium (USENIX 2027), research track
 - The 1st ACM Conference on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED 2026)
 - The 4th ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED 2025), co-located with CCS. 
@@ -23,6 +25,7 @@ nav_order: 7
 
   
 **Review Activities in International Journals**
+- IEEE Transactions on Software Engineering (TSE)
 - IEEE Transactions on Cloud Computing (TCC)
 - European Conference on Computer Systems (Eurosys)
 - Journal on Software Quality, Reliability, and Security (QRS)
